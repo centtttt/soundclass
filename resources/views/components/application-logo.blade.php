@@ -1,0 +1,1 @@
+<img src="{{ asset('images/Remove-bg.ai_1728055522545.png') }}" alt="App Logo" style="width: 400px;">
